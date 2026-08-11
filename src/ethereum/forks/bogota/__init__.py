@@ -5,11 +5,12 @@ own branches and land here once accepted.
 
 ### Changes
 
-None yet.
+- [EIP-8131: Unified Transaction Content Floor][EIP-8131]
 
 ### Releases
 
 [EIP-8081]: https://eips.ethereum.org/EIPS/eip-8081
+[EIP-8131]: https://eips.ethereum.org/EIPS/eip-8131
 """
 
 from ethereum.fork_criteria import ForkCriteria, Unscheduled
